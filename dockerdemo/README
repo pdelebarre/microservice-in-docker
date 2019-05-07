@@ -1,0 +1,15 @@
+#Deploying Spring Boot Microservices on Docker
+
+Docker is currently a hot topic in container-based deployment, whereas Spring Boot is the same for microservice development. Both Spring Boot and Docker together form a great combo for developing microservice-based applications. In this article, I will try to explain in very simple words
+
+##What is Docker and what are its benefits?
+ What Spring Boot is and how to create a simple Spring Boot application.
+Hosting the Spring Boot application in a Docker container.
+Docker Containers
+A Docker container is a tool that makes it very easy to deploy and run an application using containers. A container allows a developer to create an all-in-one package of the developed application with all its dependencies. For example, a Java application requires Java libraries, and when we deploy it on any system or VM, we need to install Java first. But, in a container, everything is kept together and shipped as one package, such as in a Docker container. Read the documentation for more information about Docker containers.
+
+##Spring Boot Applications
+Spring Boot is a framework that eases the development of web applications. It has a lot of pre-configured modules that eliminate the manual addition of dependencies for developing an application with Spring. This is the sole reason for this being one of the favorites for creating microservices. Let's see how to create a Spring Boot Application in a few minutes.
+
+https://dzone.com/articles/deploying-spring-boot-on-docker
+
