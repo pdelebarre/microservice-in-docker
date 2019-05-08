@@ -8,10 +8,10 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>dockerdemo</artifactId>
+	<groupId>com.pdelebarre</groupId>
+	<artifactId>monbricolo-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dockerdemo</name>
+	<name>a containerized microservice</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -38,7 +38,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>dockerdemo</finalName>
+		<finalName>monbricolo-backend</finalName>
 	</build>
 
 </project>
